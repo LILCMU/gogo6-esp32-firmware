@@ -1,4 +1,4 @@
-# The firmware for the GoGoBoard 6.x based on ESP32
+# The firmware of the GoGoBoard 6.x for ESP32 core
 
 This is a firmware used to runs on GoGo Board 6.x provides high-level functionalities of the hardware, enabled children experience on computational thinking with creative minds.
 
